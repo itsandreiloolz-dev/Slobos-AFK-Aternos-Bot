@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Andreiloolz.aternos.me:60510",
+    "ip": "Andreiloolz.aternos.me",
     "port": 60510,
     "version": "",
     "try-creative": false
